@@ -1,0 +1,6 @@
+interface:
+  display_name: "CloseLens · 收盘透镜"
+  short_description: "从一次可靠取数到完整股票研究与模型综合，再到可核验交付的精简流程"
+  default_prompt: "使用 $closelens 按我的研究范围完成来源可追溯的股票报告，明确风险与缺口，仅在已授权时发送并核验交付。"
+policy:
+  allow_implicit_invocation: true
